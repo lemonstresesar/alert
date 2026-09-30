@@ -1,0 +1,6 @@
+{
+  "name": "AlerteDouala - Prévention Inondations",
+  "description": "Plateforme web et mobile de prévention des inondations et d'alerte précoce pour la ville de Douala, Cameroun.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
